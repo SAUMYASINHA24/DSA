@@ -14,4 +14,7 @@ h) Left Rotate By K places (02-07-2026) ---> Optimal --> ArrayTraversal --> TC -
 i) Move Zeroes to the right end (02-07-2026) --> ArrayTraversal (Two Pointer) --> TC --> O(n) -- SC --> O(1)
 j) Union of Two Sorted Arrays (02-07-2026) --> Two pointer --> TC O(n1+n2)---> SC for returning the solution and not for my algorithm would be O(n1+n2)
 k) Intersection of Two Sorted Arrays (02-07-2026) --> Two pointer --> TC O(n1+n2)---> SC for returning the solution and not for my algorithm would be O(n1+n2)
-l) Missing number from an array range 0 to n --> ArrayTraversal --> TC O(n) --> SC O(1)
+l) Missing number from an array range 0 to n (02-07-2026) --> ArrayTraversal --> TC O(n) --> SC O(1) --> Use sum method and then XOR method
+m) Maximum Consecutive Zeroes (02-07-2026) - Array -- > TC -> O(n) ---> SC --> O(1)
+n) Find number appearing once (02-07-2026) -> Array (XOR) --> TC -- O(n) and SC --> O(1)
+   Note: We can use Hashmap and Map for better solution but it has high TC and SC.
